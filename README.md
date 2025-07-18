@@ -1,4 +1,4 @@
-# word-form-to-excel-PCR-labwork-
+# word-form-to-excel-PCR-labwork
 
 Automate the mind-numbing chore of copy-pasting data from .docx files to .xlsx. This one is used particularly for my PCR lab work.
 
